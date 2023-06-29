@@ -1,0 +1,257 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "Malaysia",
+      "city": "kuala lumpur1",
+      "img": "https://pic2.99.co/v3/RWWkHeDF8KGFgg3tyfKqeY?text=Michael+Mah+%E9%A9%AC%E6%9C%9D%E9%98%B3&sampling=lanczos&version=1&width=640&mode=crop&quality=70&signature=5d5081123c646ec97040e9050640d26d5d685f35",
+      "title": "2 Bed Condo for Rent in Mayfair Gardens",
+      "description": "A tranquil neighbourhood of predominantly landed homes and condominiums with nature reserves and parks nearby.",
+      "region": "King Albert Park",
+      "floor": "12",
+      "door": "#1221",
+      "distance": "5 mins",
+      "type": "Condo",
+      "price": "4890",
+      "bed": "2",
+      "bath": "2",
+      "furnished": "true",
+      "inventories": [
+        {
+          "type": {
+            "label": "Ironing Board",
+            "id": "IB"
+          },
+          "value": "9"
+        },
+        {
+          "type": {
+            "label": "Microwave",
+            "id": "MIC"
+          },
+          "value": "18"
+        },
+        {
+          "type": {
+            "label": "Curtains",
+            "id": "CU"
+          },
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://pic2.99.co/v3/q4mTrqwMPgS7fiL69gMfpS?text=Joseph+Tan&sampling=lanczos&version=1&width=640&mode=crop&quality=70&signature=9cf568e9c41abc5242e13d9f34d41a484f74ac12",
+      "title": "3 Room HDB in 50 Commonwealth Drive",
+      "description": "A tranquil neighbourhood of predominantly landed homes and condominiums with nature reserves and parks nearby.",
+      "region": "Commonwealth",
+      "floor": "22",
+      "door": "#2201",
+      "distance": "2 mins",
+      "type": "HDB",
+      "price": "4000",
+      "bed": "3",
+      "bath": "2",
+      "furnished": "true",
+      "inventories": [
+        {
+          "type": {
+            "label": "Washer",
+            "id": "WA"
+          },
+          "value": "7"
+        },
+        {
+          "type": {
+            "label": "Bed",
+            "id": "BE"
+          },
+          "value": "2"
+        },
+        {
+          "type": {
+            "label": "Closet",
+            "id": "CL"
+          },
+          "value": "3"
+        },
+        {
+          "type": {
+            "label": "Ironing Board",
+            "id": "IB"
+          },
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://pic2.99.co/v3/VJxUxxfR9mSFvzFaMuxAUX?text=John+Heng&sampling=lanczos&version=1&width=640&mode=crop&quality=70&signature=aa834bda9d984931360db43d0d323be9e3fb4bf6",
+      "title": "3 Room HDB in 442B Fajar Road",
+      "description": "A tranquil neighbourhood of predominantly landed homes and condominiums with nature reserves and parks nearby.",
+      "region": "Bangkit",
+      "floor": "10",
+      "door": "#1001",
+      "distance": "2 mins",
+      "type": "HDB",
+      "price": "3600",
+      "bed": "3",
+      "bath": "3",
+      "furnished": "false",
+      "inventories": []
+    },
+    {
+      "id": 4,
+      "img": "https://pic2.99.co/v3/ExyAQ4ghhYyompgmTaUy9V?text=Catherine+Yeo&sampling=lanczos&version=1&width=640&mode=crop&quality=70&signature=c702fa480d04e69ff8ae039d71dac832674d5433",
+      "title": "4 Bed Condo in The Alps Residences",
+      "description": "A tranquil neighbourhood of predominantly landed homes and condominiums with nature reserves and parks nearby.",
+      "region": "Tampines",
+      "floor": "9",
+      "door": "#0913",
+      "distance": "3 mins",
+      "type": "Condo",
+      "price": "3800",
+      "bed": "2",
+      "bath": "2",
+      "furnished": "false",
+      "inventories": [
+        {
+          "type": {
+            "label": "Air Conditioner",
+            "value": "AC"
+          },
+          "value": "1"
+        },
+        {
+          "type": {
+            "label": "Bookcases",
+            "value": "BC"
+          },
+          "value": "1"
+        },
+        {
+          "type": {
+            "label": "Desks",
+            "value": "DE"
+          },
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "inventories": [
+    {
+      "label": "Air Conditioner",
+      "id": "AC"
+    },
+    {
+      "label": "Bookcases",
+      "id": "BC"
+    },
+    {
+      "label": "Desks",
+      "id": "DE"
+    },
+    {
+      "label": "Rugs",
+      "id": "RU"
+    },
+    {
+      "label": "Television",
+      "id": "TE"
+    },
+    {
+      "label": "Bed",
+      "id": "BE"
+    },
+    {
+      "label": "Sofa",
+      "id": "SO"
+    },
+    {
+      "label": "Closet",
+      "id": "CL"
+    },
+    {
+      "label": "Chairs",
+      "id": "CH"
+    },
+    {
+      "label": "Cabinets",
+      "id": "CA"
+    },
+    {
+      "label": "Wall Shelves",
+      "id": "WS"
+    },
+    {
+      "label": "Curtains",
+      "id": "CU"
+    },
+    {
+      "label": "Sewing Machine",
+      "id": "SM"
+    },
+    {
+      "label": "Dressing Table",
+      "id": "DT"
+    },
+    {
+      "label": "Ironing Board",
+      "id": "IB"
+    },
+    {
+      "label": "Washer",
+      "id": "WA"
+    },
+    {
+      "label": "Dryer",
+      "id": "DR"
+    },
+    {
+      "label": "Dining Table",
+      "id": "DIT"
+    },
+    {
+      "label": "Dishwasher",
+      "id": "DIS"
+    },
+    {
+      "label": "Glassware",
+      "id": "GLA"
+    },
+    {
+      "label": "Refrigerator",
+      "id": "REF"
+    },
+    {
+      "label": "Microwave",
+      "id": "MIC"
+    },
+    {
+      "label": "Oven",
+      "id": "OVE"
+    },
+    {
+      "label": "Coffee Machine",
+      "id": "CMA"
+    },
+    {
+      "label": "Stove",
+      "id": "STO"
+    },
+    {
+      "label": "Tools",
+      "id": "TOO"
+    },
+    {
+      "label": "Lawn Furniture",
+      "id": "LFU"
+    },
+    {
+      "label": "Sports Equipment",
+      "id": "SEQ"
+    }
+  ]
+}

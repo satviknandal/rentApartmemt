@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-gray-50;
+}
+
+@layer components {
+    .btn {
+        @apply bg-emerald-500 hover:bg-emerald-700 hover:text-white text-white px-3 py-2 rounded-md text-sm text-white;
+        max-width: 120px
+    }
+    .card {
+        @apply p-3 rounded-md bg-white shadow-md h-full;
+    }
+    .card-l {
+        max-width: 120px;
+    }
+}
